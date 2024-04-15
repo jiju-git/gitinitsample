@@ -9,7 +9,7 @@
     "seed": "node -r dotenv/config ./scripts/seed.js"
   },
   "dependencies": {
-    "next": "^14.0.2",
+    "next": "14.2.1",
     "@heroicons/react": "^2.0.18",
     "@tailwindcss/forms": "^0.5.7",
     "@types/node": "20.5.7",
@@ -25,6 +25,7 @@
     "zod": "^3.22.2"
   },
   "devDependencies": {
+    "next": "14.2.1",
     "@types/bcrypt": "^5.0.1",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.14",
